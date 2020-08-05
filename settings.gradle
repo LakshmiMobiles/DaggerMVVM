@@ -1,0 +1,3 @@
+include ':DaggerBusiness'
+include ':app'
+rootProject.name = "DaggerMVVM"
